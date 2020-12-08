@@ -7,10 +7,10 @@
     "*": {
       "windowBorder": "#000000",
       "background": "#000000",
-      "foreground": "#CCCCCC",
-      "infoForeground": "#CCCCCC",
+      "foreground": "#ffffff",
+      "infoForeground": "#ffffff",
       "selectionBackground": "#1c5e84",
-      "selectionForeground": "#CCCCCC",
+      "selectionForeground": "#ffffff",
       "selectionInactiveBackground":"#1c5e84",
       "selectionBackgroundInactive": "#1c5e84",
       "disabledBackground": "#000000",
@@ -18,8 +18,8 @@
       "disabledForeground": "#806919",
       "disabledText": "#806919",
       "inactiveForeground": "#806919",
-      "acceleratorForeground": "#CCCCCC",
-      "acceleratorSelectionForeground": "#CCCCCC",
+      "acceleratorForeground": "#ffffff",
+      "acceleratorSelectionForeground": "#ffffff",
       "errorForeground": "#cc504b",
       "borderColor": "#151823",
       "disabledBorderColor": "#151823",
@@ -37,13 +37,13 @@
       "pressedBorderColor": "#151823"
     },
     "Button": {
-      "foreground": "#CCCCCC",
+      "foreground": "#ffffff",
       "startBackground": "#000000",
       "endBackground": "#000000",
       "startBorderColor": "#151823",
       "endBorderColor": "#151823",
       "default": {
-        "foreground": "#CCCCCC",
+        "foreground": "#ffffff",
         "startBackground": "#151823",
         "endBackground": "#151823",
         "startBorderColor": "#151823",
@@ -56,9 +56,9 @@
     },
     "ComboBox": {
       "nonEditableBackground": "#000000",
-      "modifiedItemForeground": "#CCCCCC",
+      "modifiedItemForeground": "#ffffff",
       "ArrowButton": {
-        "iconColor": "#CCCCCC",
+        "iconColor": "#ffffff",
         "disabledIconColor":  "#733000",
         "nonEditableBackground": "#000000"
       }
@@ -69,19 +69,19 @@
       "matchForeground": "#eca311",
       "selectionBackground": "#1c5e84",
       "selectionInactiveBackground": "#1c5e84",
-      "foreground": "#CCCCCC"
+      "foreground": "#ffffff"
     },
     "Component": {
       "errorFocusColor": "#cc504b",
       "inactiveErrorFocusColor": "#cc504b",
       "warningFocusColor": "#806919",
       "inactiveWarningFocusColor": "#806919",
-      "iconColor": "#CCCCCC",
-      "hoverIconColor": "#CCCCCC"
+      "iconColor": "#ffffff",
+      "hoverIconColor": "#ffffff"
     },
     "Counter": {
       "background": "#151823",
-      "foreground": "#CCCCCC"
+      "foreground": "#ffffff"
     },
     "DebuggerPopup.borderColor": "#151823",
     "DefaultTabs": {
@@ -92,13 +92,13 @@
       "hoverBackground": "#151823"
     },
     "DragAndDrop": {
-      "areaForeground": "#CCCCCC",
+      "areaForeground": "#ffffff",
       "areaBackground": "#151823",
       "areaBorderColor": "#151823"
     },
     "Editor": {
       "background": "#000000",
-      "foreground": "#CCCCCC",
+      "foreground": "#ffffff",
       "shortcutForeground": "#eca311"
     },
     "EditorPane.inactiveBackground": "#000000",
@@ -108,10 +108,10 @@
       "background": "#000000",
       "borderColor": "#151823",
       "hoverBackground": "#151823",
-      "underlinedTabForeground": "#CCCCCC",
+      "underlinedTabForeground": "#ffffff",
       "underlineHeight": 4,
       "underlinedTabBackground": "#000000",
-      "inactiveColoredFileBackground": "#00000000"
+      "inactiveColoredFileBackground": "#000000"
     },
     "FileColor": {
       "Yellow": "#eca311",
@@ -123,7 +123,7 @@
     },
     "FlameGraph": {
       "JVMBackground": "#000000",
-      "frameForeground": "#CCCCCC",
+      "frameForeground": "#ffffff",
       "JVMSearchNotMatchedBackground": "#151823",
       "nativeBackground": "#151823",
       "nativeSearchNotMatchedBackground": "#151823",
@@ -135,22 +135,22 @@
       "nativeFocusSearchNotMatchedBackground": "#151823",
       "parentFocusBackground": "#151823",
       "parentFocusSearchNotMatchedBackground": "#151823",
-      "JVMFrameForeground": "#CCCCCC",
-      "nativeFrameForeground": "#CCCCCC",
-      "parentFrameForeground": "#CCCCCC",
-      "JVMFocusedFrameForeground": "#CCCCCC",
-      "nativeFocusedFrameForeground": "#CCCCCC",
-      "parentFocusedFrameForeground": "#CCCCCC"
+      "JVMFrameForeground": "#ffffff",
+      "nativeFrameForeground": "#ffffff",
+      "parentFrameForeground": "#ffffff",
+      "JVMFocusedFrameForeground": "#ffffff",
+      "nativeFocusedFrameForeground": "#ffffff",
+      "parentFocusedFrameForeground": "#ffffff"
     },
     "InplaceRefactoringPopup": {
       "borderColor": "#151823"
     },
     "Link": {
-      "activeForeground": "#CCCCCC",
-      "hoverForeground": "#CCCCCC",
-      "pressedForeground": "#CCCCCC",
-      "visitedForeground": "#CCCCCC",
-      "secondaryForeground": "#CCCCCC"
+      "activeForeground": "#ffffff",
+      "hoverForeground": "#ffffff",
+      "pressedForeground": "#ffffff",
+      "visitedForeground": "#ffffff",
+      "secondaryForeground": "#ffffff"
     },
     "MemoryIndicator": {
       "usedBackground": "#151823",
@@ -161,44 +161,44 @@
     },
     "Notification": {
       "background": "#151823",
-      "foreground": "#CCCCCC",
-      "errorForeground": "#CCCCCC",
+      "foreground": "#ffffff",
+      "errorForeground": "#ffffff",
       "errorBackground": "#cc504b",
       "errorBorderColor": "#cc504b",
       "MoreButton.innerBorderColor": "#151823",
       "ToolWindow": {
-        "informativeForeground": "#CCCCCC",
+        "informativeForeground": "#ffffff",
         "informativeBackground": "#151823",
         "informativeBorderColor": "#151823",
-        "warningForeground": "#CCCCCC",
+        "warningForeground": "#ffffff",
         "warningBackground": "#151823",
-        "errorForeground": "#CCCCCC",
+        "errorForeground": "#ffffff",
         "errorBackground": "#cc504b",
         "errorBorderColor": "#151823"
       }
     },
     "ParameterInfo": {
       "background": "#151823",
-      "foreground": "#CCCCCC",
+      "foreground": "#ffffff",
       "currentOverloadBackground": "#151823",
-      "currentParameterForeground": "#CCCCCC"
+      "currentParameterForeground": "#ffffff"
     },
     "Plugins": {
       "Tab": {
-        "selectedForeground": "#CCCCCC",
+        "selectedForeground": "#ffffff",
         "selectedBackground": "#151823",
         "hoverBackground": "#151823"
       },
       "SearchField.borderColor": "#151823",
       "SectionHeader.background": "#151823",
       "tagBackground": "#151823",
-      "tagForeground": "#CCCCCC",
+      "tagForeground": "#ffffff",
       "Button": {
-        "installForeground": "#CCCCCC",
+        "installForeground": "#ffffff",
         "installBorderColor": "#151823",
-        "installFillForeground": "#CCCCCC",
+        "installFillForeground": "#ffffff",
         "installFillBackground": "#151823",
-        "updateForeground": "#CCCCCC",
+        "updateForeground": "#ffffff",
         "updateBackground": "#151823"
       },
       "lightSelectionBackground": "#151823"
@@ -219,7 +219,7 @@
     "PopupMenu": {
       "borderWidth": 1,
       "background": "#000000",
-      "foreground": "#CCCCCC",
+      "foreground": "#ffffff",
       "borderInsets": "4,1,4,1"
     },
     "ProgressBar": {
@@ -263,7 +263,7 @@
     },
     "SearchEverywhere": {
       "Tab": {
-        "selectedForeground": "#CCCCCC",
+        "selectedForeground": "#ffffff",
         "selectedBackground": "#151823"
       },
       "SearchField.borderColor": "#151823",
@@ -277,7 +277,7 @@
       "endBackground": "#eca311"
     },
     "SpeedSearch": {
-      "foreground": "#CCCCCC",
+      "foreground": "#ffffff",
       "borderColor": "#151823",
       "background": "#151823"
     },
@@ -286,7 +286,7 @@
       "underlineColor": "#151823",
       "tabSelectionHeight": 5,
       "disabledUnderlineColor": "#eca311",
-      "contentAreaColor": "#CCCCCC",
+      "contentAreaColor": "#ffffff",
       "hoverColor": "#151823",
       "focusColor": "#151823"
     },
@@ -298,31 +298,31 @@
       "stripeColor": "#151823",
       "focusCellForeground": "#151823",
       "focusCellBackground": "#000000",
-      "lightSelectionForeground": "#CCCCCC",
+      "lightSelectionForeground": "#ffffff",
       "lightSelectionBackground": "#1c5e84",
-      "lightSelectionInactiveForeground": "#CCCCCC",
+      "lightSelectionInactiveForeground": "#ffffff",
       "lightSelectionInactiveBackground": "#1c5e84"
     },
     "ToggleButton": {
-      "onForeground": "#CCCCCC",
+      "onForeground": "#ffffff",
       "onBackground": "#151823",
-      "offForeground": "#CCCCCC",
+      "offForeground": "#ffffff",
       "offBackground": "#000000",
-      "buttonColor": "#CCCCCC",
+      "buttonColor": "#ffffff",
       "borderColor": "#151823"
     },
     "ToolTip": {
       "background": "#151823",
-      "foreground": "#CCCCCC",
-      "Actions.infoForeground": "#CCCCCC",
-      "infoForeground": "#CCCCCC",
+      "foreground": "#ffffff",
+      "Actions.infoForeground": "#ffffff",
+      "infoForeground": "#ffffff",
       "Actions.background": "#151823"
     },
     "ToolWindow": {
       "Header": {
-        "background": "#000000",
-        "borderColor": "#151823",
-        "inactiveBackground": "#000000"
+        "background": "#151823",
+        "borderColor": "#000000",
+        "inactiveBackground": "#151823"
       },
       "HeaderTab": {
         "selectedInactiveBackground": "#151823",
@@ -335,13 +335,13 @@
       "Button": {
         "hoverBackground": "#151823",
         "selectedBackground": "#151823",
-        "selectedForeground": "#CCCCCC"
+        "selectedForeground": "#ffffff"
       }
     },
     "Tree": {
-      "foreground": "#CCCCCC",
-      "background": "#000000",
-      "selectionForeground": "#CCCCCC",
+      "foreground": "#ffffff",
+      "background": "#151823",
+      "selectionForeground": "#ffffff",
       "selectionInactiveBackground": "#1c5e84",
       "selectionBackground": "#1c5e84"
     },
@@ -374,13 +374,13 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Grey": "#CCCCCC",
+      "Actions.Grey": "#ffffff",
       "Actions.Red": "#cc504b",
       "Actions.Yellow": "#eca311",
       "Actions.Green": "#49A27E",
       "Actions.Blue": "#4F9FDC",
-      "Actions.GreyInline.Dark": "#CCCCCC",
-      "Objects.Grey": "#CCCCCC",
+      "Actions.GreyInline.Dark": "#ffffff",
+      "Objects.Grey": "#ffffff",
       "Objects.RedStatus": "#cc504b",
       "Objects.Red": "#cc504b",
       "Objects.Pink": "#9C609F",
@@ -388,7 +388,7 @@
       "Objects.Green": "#49A27E",
       "Objects.Blue": "#4F9FDC",
       "Objects.Purple": "#5B4E77",
-      "Objects.BlackText": "#CCCCCC",
+      "Objects.BlackText": "#ffffff",
       "Objects.YellowDark": "#806919",
       "Objects.GreenAndroid": "#49A27E",
       "Checkbox.Background.Default.Dark": "#000000",
